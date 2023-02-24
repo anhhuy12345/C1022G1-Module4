@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8c827d3-8b20-4df9-b354-bcd5b9fe298b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/build/classes/java/main/com/codegym/GreetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/build/libs/bai1-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/src/main/java/com/codegym/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-management" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/build/classes/java/main/com/transfer/controller/TransferController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/build/classes/java/main/com/transfer/service/ITransferService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/build/classes/java/main/com/transfer/service/Impl/TransferService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/build/libs/exercise1-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/main/java/com/transfer/controller/TransferController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/main/java/com/transfer/service/ITransferService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/main/java/com/transfer/service/Impl/TransferService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MB637Lzct0afbu4MNdrIqxjfM5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercise/exercise2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c827d3-8b20-4df9-b354-bcd5b9fe298b" name="Default Changelist" comment="" />
+      <created>1677228425742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677228425742</updated>
+      <workItem from="1677228435849" duration="144000" />
+      <workItem from="1677232047056" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1677232111097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1677232111097" />
+    <state x="65" y="0" key="new project wizard" timestamp="1677228581518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1677228581518" />
+  </component>
+</project>
