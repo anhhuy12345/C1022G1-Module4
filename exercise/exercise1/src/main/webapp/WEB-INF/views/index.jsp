@@ -12,7 +12,7 @@
     <title>Money Transfer</title>
   </head>
   <body>
-  h1>Change Money</h1>
+  <h1>Change Money</h1>
   <form action="/change" method="post">
     <p>USD: <input type="text" name="amount"></p>
     <p>Rate: <input type="text" name="rate"></p>
