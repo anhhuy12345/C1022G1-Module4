@@ -13,34 +13,35 @@
             ="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 </head>
 <body>
-<h1 style="color: cyan"> Sandwich Spices</h1>
+<h1 class="text-center" style="color: cyan"> Sandwich Spices</h1>
 <form action="/spices" method="post">
-    <label>
-        <input type="checkbox" name="spices" value="Lettuce">
-        <span>Lettuce</span>
-    </label>
+    <div class="text-center">
+        <label>
+            <input type="checkbox" name="spices" value="Lettuce">
+            <span>Lettuce</span>
+        </label>
 
-    <label>
-        <input type="checkbox" name="spices" value="tomato">
-        <span>Tomato</span>
-    </label>
+        <label>
+            <input type="checkbox" name="spices" value="tomato">
+            <span>Tomato</span>
+        </label>
 
-    <label>
-        <input type="checkbox" name="spices" value="mustard">
-        <span>Mustard</span>
-    </label>
+        <label>
+            <input type="checkbox" name="spices" value="mustard">
+            <span>Mustard</span>
+        </label>
 
-    <label>
-        <input type="checkbox" name="spices" value="sprouts">
-        <span>Sprouts</span>
-    </label>
+        <label>
+            <input type="checkbox" name="spices" value="sprouts">
+            <span>Sprouts</span>
+        </label>
 
-    <hr>
-    <button type="submit">Save</button>
+        <hr>
+        <button type="submit">Save</button>
 
-    <h1> the number spices is: ${spices}</h1>
+        <h1> the number spices is: <a style="color: cyan">${spices}</a></h1>
 
-
+    </div>
 </form>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity

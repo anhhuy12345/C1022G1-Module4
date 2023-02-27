@@ -1,6 +1,6 @@
 package com.caculator.controller;
 
-import com.caculator.service.impl.CaculatorServices;
+import com.caculator.repository.impl.CaculatorServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
