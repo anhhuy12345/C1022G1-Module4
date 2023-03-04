@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a93c1ce-9c83-4d2e-b991-9f4fab07c052" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/build/classes/java/main/com/controller/EmailSettingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/build/classes/java/main/com/controller/EmailSettingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/build/classes/java/main/com/service/impl/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/build/classes/java/main/com/service/impl/EmailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/build/libs/mail_box-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/build/libs/mail_box-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/src/main/java/com/service/impl/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_data_binding_form/exercise/mail_box/src/main/java/com/service/impl/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/orm_product.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/classes/java/main/com/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/classes/java/main/com/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/classes/java/main/com/repository/ConnectionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/classes/java/main/com/repository/IProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/classes/java/main/com/repository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/classes/java/main/com/service/IProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/classes/java/main/com/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/libs/orm_product-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/resources/main/hibernate.conf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/java/com/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/java/com/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/java/com/repository/ConnectionUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/java/com/repository/IProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/java/com/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/java/com/service/IProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/java/com/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/resources/hibernate.conf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/views/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/views/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/views/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/views/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/exercise/orm_product/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5_orm/practice/customer-management" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2MY7adumv1EM2LzzqAWWwmq14Su" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog_application" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a93c1ce-9c83-4d2e-b991-9f4fab07c052" name="Default Changelist" comment="" />
+      <created>1677932726782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677932726782</updated>
+      <workItem from="1677932728360" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1677932749264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1677932749264" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1677932757643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1677932757643" />
+  </component>
+</project>

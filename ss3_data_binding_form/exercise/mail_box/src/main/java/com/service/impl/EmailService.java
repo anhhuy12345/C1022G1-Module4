@@ -26,8 +26,9 @@ public class EmailService implements IEmailService {
         pageSizeList.add(50);
         pageSizeList.add(100);
 
-        emailSettingList.add(new EmailSetting("Vietnamese", 5, false, "Loki"));
-        emailSettingList.add(new EmailSetting("English", 10, true, "Odin"));
+        emailSettingList.add(new EmailSetting("Vietnamese", 5, false, "Hùng"));
+        emailSettingList.add(new EmailSetting("English", 10, true, "Thọ"));
+        emailSettingList.add(new EmailSetting("JaPanese", 20, true, "Huy"));
 
     }
 
