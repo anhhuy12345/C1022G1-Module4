@@ -3,6 +3,7 @@ package com.example.controller;
 import com.example.model.Blog;
 import com.example.service.IBlogService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -24,6 +25,7 @@ public class BlogController {
         List<Blog> blogList = iBlogService.findAll();
         model.addAttribute("blogList", blogList);
         model.addAttribute("search", search);
+
         return "blog/list";
     }
 
