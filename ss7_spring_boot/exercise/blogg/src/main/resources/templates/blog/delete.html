@@ -48,7 +48,42 @@
         </tr>
     </table>
 
-    <button type="submit">Delete</button>
+    <td class="d-flex">
+        <div><a href="/blog?action=edit&id=${book.id}">
+        </a>
+            <button type="button" onclick="infoDelete('${blog.getId()}','${blog.getTitle()}')"
+                    class="btn btn-danger" data-bs-toggle="modal"
+                    data-bs-target="#exampleModal">
+                delete
+            </button>
+        </div>
+    </td>
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <form action="/blog?action=delete" method="post">
+                    <div class="modal-body">
+                        <label for="deleteId"></label><input type="text" hidden id="deleteId" name="deleteId" value="${blog.getId()}">
+                        Bạn có muốn xóa <span id="deleteName"
+                                                   style="color: brown; font-weight: bold" th:text="${blog.getTitle()}"></span>
+                        không ?
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Không</button>
+                        <button type="submit" class="btn btn-primary">Có,Hãy Xoá</button>
+                    </div>
+                </form>
+
+
+            </div>
+        </div>
+    </div>
 </form>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"

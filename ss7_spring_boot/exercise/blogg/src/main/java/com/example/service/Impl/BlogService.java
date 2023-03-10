@@ -1,7 +1,8 @@
-package com.example.service;
+package com.example.service.Impl;
 
 import com.example.model.Blog;
 import com.example.repository.IBlogRepository;
+import com.example.service.IBlogService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
