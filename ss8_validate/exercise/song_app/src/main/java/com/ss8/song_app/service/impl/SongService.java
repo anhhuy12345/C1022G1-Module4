@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import java.util.Optional;
 
 @Service
-public class SongService implements ISongService {
+private class SongService implements ISongService {
 
     @Autowired
     ISongRepository songRepository;
