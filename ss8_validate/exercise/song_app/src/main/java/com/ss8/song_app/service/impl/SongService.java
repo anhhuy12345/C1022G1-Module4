@@ -9,10 +9,10 @@ import org.springframework.stereotype.Service;
 import java.util.Optional;
 
 @Service
-private class SongService implements ISongService {
+public class SongService implements ISongService {
 
     @Autowired
-    ISongRepository songRepository;
+   private ISongRepository songRepository;
 
 
     @Override
