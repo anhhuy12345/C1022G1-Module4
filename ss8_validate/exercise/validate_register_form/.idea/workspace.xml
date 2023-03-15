@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3a00b2c-095c-4218-a06c-56b2592a398b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/BloggApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/controller/BlogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/controller/BlogRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/controller/CategoryRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/entity/Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/repository/IBlogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/repository/ICategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/service/BlogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/service/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/service/IBlogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/java/com/example/blogg/service/ICategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/main/resources/static/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss11_web_service/exercise/blogg/src/test/java/com/example/blogg/BloggApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/CodegymApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/controller/BlogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/controller/BlogRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/controller/CategoryRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/entity/Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/repository/IBlogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/repository/ICategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/service/BlogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/service/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/service/IBlogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/java/com/codegym/service/ICategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/data/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/main/resources/static/js/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/backend/blogg/src/test/java/com/codegym/CodegymApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/.idea/frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/blog/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/blog/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/blog/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/blog/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/category/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/category/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/category/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss12_ajax/exercise/bloggg/frontend/fragment/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ss8/ValidateRegisterFormApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ss8/config/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ss8/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ss8/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ValidateMessage.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ss8/ValidateRegisterFormApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2N2ddKTVoJmoGSyJwzp6bnbEDCH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../validate" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateRegisterFormApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="validate_register_form.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ss8.ValidateRegisterFormApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a00b2c-095c-4218-a06c-56b2592a398b" name="Changes" comment="" />
+      <created>1678866200938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678866200938</updated>
+      <workItem from="1678866202736" duration="372000" />
+      <workItem from="1678888840161" duration="138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
