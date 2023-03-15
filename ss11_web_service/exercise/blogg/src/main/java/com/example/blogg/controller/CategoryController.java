@@ -26,7 +26,7 @@ public class CategoryController {
     @Autowired
     ICategoryService categoryService;
     @Autowired
-    IBlogService blogService;
+    private IBlogService blogService;
 
 //    @GetMapping("/blog-list-category/{id}")
 //    public String viewBlogList(@PathVariable("id") Integer id, Model model, @PageableDefault(value = 4) Pageable pageable) {

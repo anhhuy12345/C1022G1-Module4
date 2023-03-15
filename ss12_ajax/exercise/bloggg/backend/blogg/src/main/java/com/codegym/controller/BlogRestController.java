@@ -21,7 +21,7 @@ import java.util.stream.IntStream;
 
 
 @RestController
-@RequestMapping("/api/blogs")
+@RequestMapping(value = "/api/blogs",method = RequestMethod.GET)
 public class BlogRestController {
     @Autowired
     ICategoryService categoryService;

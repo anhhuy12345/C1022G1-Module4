@@ -1,8 +1,7 @@
 package com.example.blogg.controller;
 
 
-import com.example.blogg.entity.Blog;
-import com.example.blogg.service.IBlogService;
+
 import com.example.blogg.service.ICategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
@@ -24,7 +23,7 @@ public class BlogRestController {
     ICategoryService categoryService;
 
     @Autowired
-    IBlogService blogService;
+    private IBlogService blogService;
 
     @GetMapping("")
     public ResponseEntity<Page<Blog>> findAllBlog(@PageableDefault(direction = Sort.Direction.ASC, sort = {"id"},value = 5) Pageable pageable) {

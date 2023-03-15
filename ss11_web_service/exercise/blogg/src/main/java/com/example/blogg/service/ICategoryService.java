@@ -2,9 +2,10 @@ package com.example.blogg.service;
 
 
 
-import com.example.blogg.entity.Category;
+
 
 import java.util.List;
+
 
 public interface ICategoryService {
     void create(Category category);
