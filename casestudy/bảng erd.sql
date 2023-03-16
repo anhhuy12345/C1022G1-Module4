@@ -12,7 +12,15 @@ name varchar(50),
 id_loai_san_pham int,
 so_luong int,
 gia_ban double,
-foreign key (id_loai_san_pham) references loai_san_pham(id_loai_san_pham)
+id_khach_hang int,
+id_nhan_vien int,
+id_nha_cung_cap int,
+chat_lieu varchar(50),
+mo_ta varchar(50),
+foreign key (id_loai_san_pham) references loai_san_pham(id_loai_san_pham),
+foreign key (id_khach_hang) references khach_hang(id),
+foreign key (id_nhan_vien) references nhan_vien(id_nhan_vien),
+foreign key (id_nha_cung_cap) references ncc(id_ncc)
 );
 
 create table loai_khach_hang(
@@ -35,26 +43,13 @@ loai_trinh_do varchar(50)
 
 create table nhan_vien(
 id_nhan_vien int primary key auto_increment,
+name varchar(50)
 nam_sinh varchar(50),
 gioi_tinh varchar(50),
 dia_chi varchar(50),
 so_dien_thoai varchar(50),
 id_trinh_do int,
 foreign key(id_trinh_do) references trinh_do(id_trinh_do)
-);
-
-create table loai_cua_hang(
-id_loai_cua_hang int primary key auto_increment,
-loai_cua_hang varchar(50)
-);
-
-create table cua_hang(
-id_cua_hang int primary key auto_increment,
-name varchar(50),
-dia_chi varchar(50),
-so_dien_thoai varchar(50),
-id_loai_cua_hang int,
-foreign key (id_cua_hang) references loai_cua_hang(id_loai_cua_hang)
 );
 
 create table danh_muc (
